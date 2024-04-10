@@ -1,6 +1,7 @@
 # NETFLIX-HOMEPAGE
 
 This is the core code from scratch to clone the landing page of Netflix using **HTML, CSS and JavaScript.**
+
 [![Twitter](https://img.shields.io/twitter/url/https/github.com/nauvalazhar/bootstrap-5-login-page/.svg?style=social)](https://twitter.com/ShalemVajrapu) 
 [![telegram](	https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Rajshalem)
 [![Whatsapp](	https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/SLUF3BXNIKPYB1)
